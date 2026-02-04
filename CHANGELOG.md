@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.8.0](https://github.com/egor-denysenko/govalid/commits/v1.8.0) - 2026-02-04
+
 ## [v1.8.0](https://github.com/sivchari/govalid/compare/v1.7.4...v1.8.0) - 2025-12-24
 - feat: add coverage reporting and refactor UUID validator by @sivchari in https://github.com/sivchari/govalid/pull/198
 - fix codecov by @sivchari in https://github.com/sivchari/govalid/pull/200
